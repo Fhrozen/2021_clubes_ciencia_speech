@@ -11,22 +11,22 @@ Archivos usados en el Club de Ciencia 2021
 ### 2021/10/16 (JST) - Dia 1
 
 - Primeros pasos con Python
-<a href="" target="_blank">
+<a href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_1/Actividad_01.ipynb" target="_blank">
 <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
 - Introduccion a la Inteligencia Artificial
-<a href="" target="_blank">
+<a href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_1/Actividad_02.ipynb" target="_blank">
 <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
 - Conceptos Básicos del Aprendizaje Automático
-<a href="" target="_blank">
+<a href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_1/Actividad_03.ipynb" target="_blank">
 <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
 - Conceptos Básicos del Aprendizaje Profundo
-<a href="" target="_blank">
+<a href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_1/Actividad_04.ipynb" target="_blank">
 <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
