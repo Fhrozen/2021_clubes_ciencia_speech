@@ -11,31 +11,87 @@ Archivos usados en el Club de Ciencia 2021
 ### 2021/10/16 (JST) - Dia 1
 
 - Primeros pasos con Python
+<a href="" target="_blank">
+<img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
 - Introduccion a la Inteligencia Artificial
+<a href="" target="_blank">
+<img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
 - Conceptos Básicos del Aprendizaje Automático
+<a href="" target="_blank">
+<img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
 - Conceptos Básicos del Aprendizaje Profundo
+<a href="" target="_blank">
+<img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
 - *Extra: Mi historia con el Deep Learning y Hitachi
 
 ### 2021/10/17 (JST) - Dia 2
 
 - Introduccion al reconocimiento del habla *Prof. Watanabe
 - Procesamiento de Señales
+<a href="" target="_blank">
+<img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
 - Reconocimiento de Voz Convencional
+<a href="" target="_blank">
+<img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
 - Reconocimiento de Voz (End-to-End)
+<a href="" target="_blank">
+<img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
 
 ### 2021/10/23 (JST) - Dia 3
 
 - Conceptos Básicos de la Sintetización de Voz
 - De texto a dominio en frecuencia
+<a href="" target="_blank">
+<img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
 - Vocoders
+<a href="" target="_blank">
+<img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
 - Modelos End-to-End
+<a href="" target="_blank">
+<img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
 - *Extra: MEXT
 
 ### 2021/10/24 (JST) - Dia 4
 
-- Applicaciones: Modelamiento de Lenguaje / ChatBots
+- Applicaciones: Modelamiento de Lenguaje
+<a href="" target="_blank">
+<img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
+- Applicaciones: ChatBots
+<a href="" target="_blank">
+<img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
 - Convertidores de Voz
+<a href="" target="_blank">
+<img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
 - Aplicacion extra 1: Asistentes IA
+<a href="" target="_blank">
+<img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
 - (Opcional) Proyecto a largo Plazo (Se busca apoyo)
 
 ### 2021/10/31 (JST) - Clausura
