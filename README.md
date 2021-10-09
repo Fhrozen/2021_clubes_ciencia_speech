@@ -2,40 +2,47 @@
 
 Archivos usados en el Club de Ciencia 2021
 
-### 2021/10/15 (JST) - Apertura 
+## Calendario
 
+### 2021/10/15 (JST) - Apertura
+
+- Apertura (No hay clases)
 
 ### 2021/10/16 (JST) - Dia 1
 
 - Primeros pasos con Python
-- Introduccion al procesamiento de sonido
-- Recopilacion de datos de voz
-- Deteccion de actividad de voz
-- *Extra: Hitachi
+- Introduccion a la Inteligencia Artificial
+- Conceptos Básicos del Aprendizaje Automático
+- Conceptos Básicos del Aprendizaje Profundo
+- *Extra: Mi historia con el Deep Learning y Hitachi
 
 ### 2021/10/17 (JST) - Dia 2
 
-- Introduccion al reconocimiento del habla *Prof.
-- Introduccion al modelamiento del lenguaje
-- Practica: Grabacion de oraciones, charlas
+- Introduccion al reconocimiento del habla *Prof. Watanabe
+- Procesamiento de Señales
+- Reconocimiento de Voz Convencional
+- Reconocimiento de Voz (End-to-End)
 
 ### 2021/10/23 (JST) - Dia 3
 
-- Introduccion a la sintetizacion de voz
-- Signos y Puntuaciones
+- Conceptos Básicos de la Sintetización de Voz
+- De texto a dominio en frecuencia
+- Vocoders
+- Modelos End-to-End
 - *Extra: MEXT
 
 ### 2021/10/24 (JST) - Dia 4
 
-- Bot para conversar: Chatterbot
-- Juntando los modelos: Mi primer robot parlanchin
-- Aplicacion extra 1: Mi primer traductor voz-a-voz
-- Aplicacion extra 2: Mi primer modificador de voz
+- Applicaciones: Modelamiento de Lenguaje / ChatBots
+- Convertidores de Voz
+- Aplicacion extra 1: Asistentes IA
+- (Opcional) Proyecto a largo Plazo (Se busca apoyo)
 
 ### 2021/10/31 (JST) - Clausura
 
+- Clausura (No hay clases)
 
-### Cheatsheet
+## Cheatsheet
 
 Para ejecucion en una computadora personal con Windows 10,
 instale los programas necesarios siguiendo los pasos:
