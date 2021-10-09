@@ -33,3 +33,21 @@ Archivos usados en el Club de Ciencia 2021
 - Aplicacion extra 2: Mi primer modificador de voz
 
 ### 2021/10/31 (JST) - Clausura
+
+
+### Cheatsheet
+
+Para ejecucion en una computadora personal con Windows 10,
+instale los programas necesarios siguiendo los pasos:
+
+```batch
+cd installer\win
+install.bat
+```
+
+Para lanzar los notebooks utilize:
+
+```batch
+installer\win\venv\condabin\activate.bat
+jupyter notebook
+```
