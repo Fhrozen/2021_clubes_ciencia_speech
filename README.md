@@ -12,28 +12,22 @@ Archivos usados en el Club de Ciencia 2021
 
 - Primeros pasos con Python
 
-<a
-    href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_1/Actividad_01.ipynb"
-    target="_blank"
->
+<a href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_1/Actividad_01.ipynb"
+target="_blank" >
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
 - Introduccion a la Inteligencia Artificial
 
-<a
-    href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_1/Actividad_02.ipynb"
-    target="_blank"
->
+<a href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_1/Actividad_02.ipynb"
+    target="_blank" >
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
 - Conceptos Básicos del Aprendizaje Automático  
 
-<a
-    href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_1/Actividad_03.ipynb"
-    target="_blank"
->
+<a href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_1/Actividad_03.ipynb"
+    target="_blank" >
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
@@ -43,30 +37,24 @@ Archivos usados en el Club de Ciencia 2021
 - Conceptos Básicos del Aprendizaje Automático  
 - Conceptos Básicos del Aprendizaje Profundo
 
-<a
-    href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_1/Actividad_04.ipynb"
-    target="_blank"
->
+<a href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_1/Actividad_04.ipynb"
+    target="_blank" >
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
 - Introduccion al reconocimiento del habla *Prof. Watanabe
 - Procesamiento de Señales
 
-<a
-    href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_2/Actividad_01.ipynb"
-    target="_blank"
->
+<a href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_2/Actividad_01.ipynb"
+    target="_blank">
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
 - Reconocimiento de Voz Convencional
 - Reconocimiento de Voz (End-to-End)
 
-<a
-    href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_2/Actividad_02.ipynb"
-    target="_blank"
->
+<a href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_2/Actividad_02.ipynb"
+    target="_blank" >
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
@@ -75,27 +63,22 @@ Archivos usados en el Club de Ciencia 2021
 - Conceptos Básicos de la Sintetización de Voz
 - De texto a dominio en frecuencia
 
-<a
-    href=""
-    target="_blank"
->
+<a href=""
+    target="_blank">
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
 - Vocoders
-<a
-    href=""
-    target="_blank"
->
+
+<a href=""
+    target="_blank" >
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
 - Modelos End-to-End
 
-<a
-    href=""
-    target="_blank"
->
+<a  href=""
+    target="_blank">
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
@@ -105,33 +88,26 @@ Archivos usados en el Club de Ciencia 2021
 
 - Applicaciones: Modelamiento de Lenguaje
 
-<a
-    href=""
-    target="_blank"
->
+<a href=""  target="_blank" >
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
 - Applicaciones: ChatBots
 
-<a
-    href=""
-    target="_blank"
->
+<a  href=""
+    target="_blank">
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
 - Convertidores de Voz
 
-<a href="" target="_blank"
->
+<a href="" target="_blank">
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
 - Aplicacion extra 1: Asistentes IA
 
-<a href="" target="_blank"
->
+<a href="" target="_blank">
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
