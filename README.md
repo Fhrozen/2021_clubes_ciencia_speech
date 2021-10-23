@@ -67,23 +67,11 @@ target="_blank" >
 
 - Conceptos Básicos de la Sintetización de Voz
 - De texto a dominio en frecuencia
-
-<a href=""
-    target="_blank">
-    <img src ="https://colab.research.google.com/assets/colab-badge.svg">
-</a>
-
 - Vocoders
-
-<a href=""
-    target="_blank" >
-    <img src ="https://colab.research.google.com/assets/colab-badge.svg">
-</a>
-
 - Modelos End-to-End
 
-<a  href=""
-    target="_blank">
+<a href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_3/Actividad_01.ipynb"
+    target="_blank" >
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
