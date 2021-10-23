@@ -31,6 +31,11 @@ target="_blank" >
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
+<a href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_1/Actividad_04.ipynb"
+    target="_blank" >
+    <img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
 ### 2021/10/17 (JST) - Dia 2
 
 - Introduccion a la Inteligencia Artificial
