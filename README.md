@@ -79,28 +79,24 @@ target="_blank" >
 
 ### 2021/10/24 (JST) - Dia 4
 
-- Applicaciones: Modelamiento de Lenguaje
+- Sintetizacion de Voz
 
-<a href=""  target="_blank" >
+<a href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_3/Actividad_01.ipynb"
+    target="_blank" >
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
-- Applicaciones: ChatBots
+- Applicaciones: ChatBots (NLP)
 
-<a  href=""
+<a  href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_4/ChatBots.ipynb"
     target="_blank">
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
-- Convertidores de Voz
+- Applicaciones: ChatBots (DL)
 
-<a href="" target="_blank">
-    <img src ="https://colab.research.google.com/assets/colab-badge.svg">
-</a>
-
-- Aplicacion extra 1: Asistentes IA
-
-<a href="" target="_blank">
+<a  href="https://colab.research.google.com/github/Fhrozen/2021_clubes_ciencia_speech/blob/main/day_4/ChatBot_DL.ipynb"
+    target="_blank">
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
